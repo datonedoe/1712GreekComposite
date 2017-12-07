@@ -1,0 +1,35 @@
+.Individual {
+  padding: 20px;
+  cursor: pointer;
+}
+.Individual:hover .profileName{
+  color: #5B0A09;
+  background-color: #686715;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+
+.fullname {
+  margin-top: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.quote {
+  text-align: center;
+  font-size: 1.6rem;
+  letter-spacing: 0.04rem;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.vcenter {
+   display: inline-block;
+   vertical-align: middle;
+   float: none;
+}
+
+.hideButton {
+  visibility: hidden;
+}

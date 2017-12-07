@@ -1,0 +1,12 @@
+.Header-Title {
+  font-family: 'Righteous', cursive;
+  text-align: center;
+  color: #686715;
+}
+
+.Header-Hr {
+    border: 0;
+    height: 1px;
+    width: 60%;
+    background-image: linear-gradient(to right, rgba(104,103,21, 0), rgba(104,103,21, 0.55), rgba(104,103,21, 0));
+}

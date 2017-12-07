@@ -1,0 +1,9 @@
+.Footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /*background-color: red;*/
+  color: #686715;
+  text-align: center;
+  z-index: -1;
+}
